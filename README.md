@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/manvendra-saini" target="blank"><img src="./assets/li.svg" width="30px"></a>
-<a href="https://x.com/Manvendra_271"><img src="./assets/x.svg" width="30px" style="margin-left:10px;"></a>
+<a href="https://linkedin.com/in/manvendra-saini" target="blank"><img src="./li.svg" width="30px"></a>
+<a href="https://x.com/Manvendra_271"><img src="./x.svg" width="30px" style="margin-left:10px;"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
