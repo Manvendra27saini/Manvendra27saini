@@ -2,8 +2,6 @@
 
 
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <a href="https://linkedin.com/in/manvendra-saini" target="_blank">
