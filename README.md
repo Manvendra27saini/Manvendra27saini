@@ -1,5 +1,5 @@
-# 👋 Heyy, I'm Manvendra!
-
+# 👋 Heyy, I'm Manvendra Saini!
+I am a Final-year Student at **IIT INDORE** pursuing Electrical Engineering.
 I’m a passionate Software Developer excited about building systems that tackle real-world challenges.
 <br> 
 
@@ -32,10 +32,6 @@ I’m a passionate Software Developer excited about building systems that tackle
   </tr>
 </table>
 
-
-
-
-## 💻 Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
