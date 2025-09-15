@@ -18,7 +18,7 @@ I’m a passionate Software Developer excited about building systems that tackle
       <a href="https://git.io/streak-stats" title="Go to Source">
         <img 
           src="http://github-readme-streak-stats.herokuapp.com?user=Manvendra27saini&theme=react&border=61DAFB&fire=DDB80F" 
-          width="300"
+          width="301"
         />
       </a>
     </td>
