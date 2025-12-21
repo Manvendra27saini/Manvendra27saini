@@ -13,7 +13,7 @@ I’m a passionate Software Developer excited about building systems that tackle
           width="400"
         />
       </a>
-    </td>
+    <!-- </td>
     <td align="center">
       <a href="https://git.io/streak-stats" title="Go to Source">
         <img 
@@ -28,7 +28,7 @@ I’m a passionate Software Developer excited about building systems that tackle
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvendra27saini&layout=compact&theme=react&hide_border=true&bg_color=0D1117" 
         width="300"
       />
-    </td>
+    </td> -->
   </tr>
 </table>
 
